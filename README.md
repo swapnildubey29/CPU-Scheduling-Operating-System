@@ -12,7 +12,7 @@ Types of CPU scheduling:-
 
       (i). Non preemptive
 
-       (ii). Preemptive
+      (ii). Preemptive
 
 3. Priority scheduling :-
 
