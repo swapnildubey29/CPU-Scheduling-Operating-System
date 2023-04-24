@@ -1,7 +1,5 @@
 # CPU-Scheduling-Operating-System
 
-What is CPU scheduling:-
-
 In Multiprogramming systems, the Operating system schedules the processes on the CPU to have the maximum utilization of it and this procedure is called CPU scheduling. The Operating System uses various scheduling algorithm to schedule the processes.
 
 Types of CPU scheduling:-
@@ -14,10 +12,10 @@ Types of CPU scheduling:-
 
       (ii). Preemptive
 
-3. Priority scheduling :-
+3. Priority scheduling 
 
       (i).  Non preemptive
 
       (ii).Preemptive
 
-4. Round robin scheduling :- 
+4. Round robin scheduling  
